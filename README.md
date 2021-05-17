@@ -1,7 +1,7 @@
 # Farmacias_PMG
 https://genesisgab.github.io/Farmacias_PMG/
 
-El siguiente software fue elaborado en Java, para la empresa "Farmacias PMG",  Este programa le indica al usuario su IMC (Indice de masa corporal). 
+El siguiente programa fue elaborado en Java, para la empresa "Farmacias PMG",  Este programa le indica al usuario su IMC (Indice de masa corporal). 
 
 Para saber su IMC el usuario deberá ingresar los siguientes datos: 
 
