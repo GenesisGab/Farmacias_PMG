@@ -9,7 +9,7 @@ Para saber su IMC el usuario deberá ingresar los siguientes datos:
 
 •Sus datos en libras
 
-Donde le indicara: su IMC, el tipo de peso (si es peso inferior, normal, Sobrepeso u Obeso), le indicara algunas recomendaciones e informacion sobre su IMC.  
+Al ingresar esos datos le presentara: su IMC, el tipo de peso (si es peso inferior, normal, Sobrepeso u Obeso), le indicara algunas recomendaciones e informacion sobre su IMC.  
 
 
 Fuentes de informacion para la elaboracion del programa: 
