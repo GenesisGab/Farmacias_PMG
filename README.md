@@ -23,11 +23,10 @@ El programa evalúa la composicion corporal en el índice de masa corporal (IMC)
 	Peso superior al normal	        25.0 – 29.9
 	Obesidad	                Más de 30.0
 
-************************************************************************************************************************
 Fuentes de informacion para la elaboracion del programa: 
 
 	https://www.texasheart.org/heart-health/heart-information-center/topics/calculadora-del-indice-de-masa-corporal-imc/
 	https://www.who.int/topics/obesity/es/
 	https://www.medicalnewstoday.com/articles/es/326685
 	https://www.metric-conversions.org/es/peso/libras-a-kilogramos.htm
-**************************************************************************************************************************
+
