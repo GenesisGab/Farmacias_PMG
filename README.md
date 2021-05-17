@@ -12,6 +12,8 @@ Para saber su IMC el usuario deberá ingresar los siguientes datos:
 Al ingresar dichos datos se le presentara: su IMC, el tipo de peso (si es peso inferior, normal, Sobrepeso u Obeso), le indicara algunas recomendaciones e informacion sobre su IMC.  
 
 Ejemplo de los datos presentados al usuario:
+
+
  __^__                                      __^__
 ( ___ )------------------------------------( ___ )
  | / |           FARMACIAS PMG              | \ |
@@ -41,6 +43,7 @@ Ingrese su estatura en Metros ==> 1.57
 5. Es importante no obsesionarse
 
 Consulte a su medico de confianza para su revisión clinica
+
 
 
 Fuentes de informacion para la elaboracion del programa: 
