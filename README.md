@@ -3,7 +3,6 @@
 El siguiente software esta elaborado para la empresa "Farmacias PMG", Este programa le indica al usuario su IMC (Indice de masa corporal), el usuario deberá ingresa los siguientes datos: 
 
 •Su altura en metros
-
 •Sus datos en libras
 
 
