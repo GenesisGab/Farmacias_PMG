@@ -12,6 +12,7 @@ Donde le indicara el tipo de peso (si es peso inferior, normal, Sobrepeso u Obes
 
 Cada uno con sus respectivas recomendaciones e informacion sobre su IMC.  
 
+
 Fuentes de informacion: 
 
 https://www.texasheart.org/heart-health/heart-information-center/topics/calculadora-del-indice-de-masa-corporal-imc/
